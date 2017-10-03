@@ -1,0 +1,20 @@
+C:\Users\David\source\repos\ScratchPad\ScratchPad\bin\Debug\ScratchPad.exe.config
+C:\Users\David\source\repos\ScratchPad\ScratchPad\bin\Debug\ScratchPad.exe
+C:\Users\David\source\repos\ScratchPad\ScratchPad\bin\Debug\ScratchPad.pdb
+C:\Users\David\source\repos\ScratchPad\ScratchPad\obj\Debug\ScratchPad.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\ScratchPad\ScratchPad\obj\Debug\ScratchPad.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\ScratchPad\ScratchPad\obj\Debug\ScratchPad.exe
+C:\Users\David\source\repos\ScratchPad\ScratchPad\obj\Debug\ScratchPad.pdb
+F:\C# For Loops\ScratchPad\bin\Debug\ScratchPad.exe.config
+F:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.exe
+F:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.pdb
+F:\C# For Loops\ScratchPad\bin\Debug\ScratchPad.exe
+F:\C# For Loops\ScratchPad\bin\Debug\ScratchPad.pdb
+F:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.csprojResolveAssemblyReference.cache
+D:\C# For Loops\ScratchPad\bin\Debug\ScratchPad.exe.config
+D:\C# For Loops\ScratchPad\bin\Debug\ScratchPad.exe
+D:\C# For Loops\ScratchPad\bin\Debug\ScratchPad.pdb
+D:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.csprojResolveAssemblyReference.cache
+D:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.csproj.CoreCompileInputs.cache
+D:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.exe
+D:\C# For Loops\ScratchPad\obj\Debug\ScratchPad.pdb
